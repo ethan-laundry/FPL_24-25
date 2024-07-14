@@ -2,6 +2,13 @@
 Ongoing collection of statistical models for Fantasy Premier League 2024-25 season. 
 
 data from https://github.com/vaastav/Fantasy-Premier-League
+citation:
+@misc{anand2016fantasypremierleague,
+  title = {{FPL Historical Dataset}},
+  author = {Anand, Vaastav},
+  year = {2022},
+  howpublished = {Retrieved August 2022 from \url{https://github.com/vaastav/Fantasy-Premier-League/}}
+}
 
 initial ideas:
 
